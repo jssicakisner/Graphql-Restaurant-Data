@@ -1,4 +1,4 @@
-# GraphQL Restaurant Data Exercise
+# GraphQL Restaurant Data Exercise 
 
 This project was created for the MIT course to Use GraphQL to query and update data.
 
@@ -10,9 +10,9 @@ This project was created for the MIT course to Use GraphQL to query and update d
 
 ## Installation
 
-* Clone this repository to your local machine.
-* Open you command line with the path to the directory to this repository.
-* Run npm install and access the page on your browser trough the command 'nodemon index.js' on your terminal.
+* Clone this repository to your local machine
+* Open you command line with the path to the directory to this repository
+* Run npm install and access the page on your browser trough the command 'nodemon index.js' on your terminal
 
 ## Contributions 
 
